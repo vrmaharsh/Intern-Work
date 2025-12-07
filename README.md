@@ -13,9 +13,6 @@ A full-stack payment integration application using RazorPay API with React front
 
 **Frontend:**
 - React 18
-- Chakra UI
-- React Router
-- Axios
 
 **Backend:**
 - Node.js
